@@ -1,0 +1,29 @@
+{
+  "name": "claude-code-doc-sync-pro",
+  "version": "1.0.0",
+  "description": "Professional Claude Code plugin to automatically synchronize documentation with source code changes using autonomous loops.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/claude-code-doc-sync-pro.git"
+  },
+  "keywords": [
+    "claude-code",
+    "documentation",
+    "automation",
+    "ai",
+    "sync",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@anthropics/claude-code-types": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}
