@@ -21,7 +21,8 @@ To add and enable the plugin in your Claude Code environment, run:
 /plugin marketplace add Bedecotu/Doc-Sync-Pro && /plugin install doc-sync-pro
 
 ```
-🛠 Usage
+## 🛠 Usage
+
 Once installed, Doc-Sync-Pro runs silently in the background. It intercepts the process before you commit or finish a task to verify documentation alignment.
 
 Example Scenario:
