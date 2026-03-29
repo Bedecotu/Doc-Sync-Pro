@@ -13,6 +13,11 @@ Doc-Sync-Pro is a developer-centric plugin for [Claude Code](https://github.com/
 
 ## 📦 Installation
 
-1. Add the plugin to your Claude Code environment:
+1. Add the plugin marketplace source:
 ```bash
-/plugin marketplace add <your-github-username>/claude-code-doc-sync-pro
+/plugin marketplace add Bedecotu/Doc-Sync-Pro
+
+1. Install the plugin:
+```bash
+/plugin install doc-sync-pro
+
