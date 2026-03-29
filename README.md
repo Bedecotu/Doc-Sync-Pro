@@ -36,7 +36,8 @@ Doc-Sync-Pro triggers automatically, detects the change, and asks:
 
 Press y, and the plugin will autonomously rewrite the documentation for you.
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Created with ❤️ by Bedecotu
